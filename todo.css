@@ -1,0 +1,34 @@
+/*KOMINIARZ Anaïs*/
+
+body{
+	background: #000099;
+	text-align: center;
+	font-family: 'Helvetica',arial; 
+}
+
+h1{
+	color:white;
+}
+
+ul{
+	list-style: none;
+}
+
+li.item {
+	padding: 10px;
+	background: white;
+	border-radius: 5px;
+	margin: 10px;
+
+
+}
+
+input[type="text"] {
+	padding: 10px;
+	border-radius: 3px;
+}
+
+input[type="submit"] {
+	padding: 10px;
+	border-radius: 8px;	
+}
