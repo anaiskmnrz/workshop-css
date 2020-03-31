@@ -3,7 +3,7 @@
 body{
 	background: #000099;
 	text-align: center;
-	font-family: 'Helvetica',arial; 
+	font-family: Helvetica, Arial; 
 }
 
 h1{
@@ -14,7 +14,7 @@ ul{
 	list-style: none;
 }
 
-li.item {
+li {
 	padding: 10px;
 	background: white;
 	border-radius: 5px;
