@@ -38,11 +38,16 @@ body.index a{
 	color: white;
 }
 
+
+form div{
+	margin: 10px;
+}
+
 body.index nav a:hover{
 	color: forestgreen;
 }
 
-/* FORMATION */
+/* AUTRE */
 
 header.autre h1{
 	text-align: center;
@@ -66,4 +71,8 @@ footer a{
 	padding: 5px;
 	border-radius: 5px;
 	background-color: white;
+}
+
+.bas{
+	margin-bottom: 20px;
 }
